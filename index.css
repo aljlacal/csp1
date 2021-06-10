@@ -1,15 +1,27 @@
+body{
+	background: #0a0a0a;
+}
+
+
+/*css in about*/
 .jumbotron{
     height: 100vh;
     margin-bottom: 0;
-
+    background: #0a0a0a;
 }
 
 .btn { 
-	margin-top: 15px;
+	margin-top: 5%;
+	border-radius: 40px;
+	outline: none;
+	border: none;
+	color: #fafafa;
+	font-size: 1rem;
+	cursor: pointer;
+	background-color: #337Af1;	
  }	
 .center {
 	margin-top: 40%;
-	margin-bottom: 10%;
 	
 }
 
@@ -17,4 +29,141 @@
 	font-family: helvetica;
 	margin-top: 11%;
 }
+/* about */
+.text {
+	font-family: helvetica;
+	font-size: 20px;
+}
+.head {
+	margin-top: 5%;
+}
+.txt {
+	font-family: helvetica;
+	font-size: 17px;
+}
 
+.lol {
+	margin-top: 10px;
+}
+
+.classic {
+	margin-bottom: 10%;
+}
+
+.cap {
+font-family: verdana;
+}
+
+* {
+	color: #faf7f7;
+}
+
+/*contact*/
+.map { 
+
+ overflow: hidden;
+padding-bottom: 40%;
+position: relative;
+height: 0;
+}
+
+.cons {
+	margin-bottom: 10%;
+	margin-top: 5%;
+
+}
+
+
+
+/*footer*/
+
+/** {	
+	box-sizing: border-box;
+	font-family: verdana;*/
+
+}
+/*.footer-container {
+	background-color: #0b03ff;*/
+	
+}
+	
+/*.footer {
+	height: 17vh;
+	background-color: #002540;
+
+	color: #fafafa;
+	display: flex;
+	justify-content: LEFT;*/
+	
+	
+
+}
+/*.footer-heading {
+	display: flex;
+	flex-direction: column;
+	margin-right: 5rem;*/
+}
+
+/*.footer-heading h2 {
+	margin-bottom: 0.5rem;*/
+}
+
+/*.footer-heading a {
+	color: #fafafa;
+	text-decoration: none;*/
+	
+}
+
+.form-control-sm {
+	border-radius: 40px;
+	color: red;
+	cursor: pointer;
+}
+
+#pre-footer {
+	background-color: #002540;
+	color: white;
+	padding: 1rem;
+	font-size: 100%;
+
+	justify-content: center;
+		
+	
+
+}
+
+.nice {
+justify-content: center;
+
+
+}
+
+#pre-footer > div {
+	display: inline-block;
+	width: 20%;
+	
+	text-decoration: none;
+	margin-bottom: 0.5rem;
+	
+}
+
+#pre-footer div:hover {
+	color: red;
+	transition: 0.3s ease-out;
+}
+
+#pre-footer * {
+	margin-top: 0.3rem;
+	margin-bottom: 0.3rem;
+}
+
+.btn-info {
+	margin-top: 5%;
+	border-radius: 40px;
+	outline: none;
+	border: none;
+	color: #fafafa;
+	font-size: 1rem;
+	cursor: pointer;
+	background-color: #337Af1;
+}
