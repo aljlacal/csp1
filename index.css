@@ -68,13 +68,13 @@ font-family: verdana;
 }
 
 /*contact*/
-/*.map { 
-
- overflow: hidden;
-padding-bottom: 20%;
+.map { 
+width: 50%;
+overflow: hidden;
+padding-bottom: 5%;
 position: relative;
-height: 0;
-}*/
+height: 1%;
+}
 
 .cons {
 	margin-bottom: 5%;
