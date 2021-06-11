@@ -34,8 +34,12 @@ body{
 	font-family: helvetica;
 	font-size: 20px;
 }
+#text {
+	margin-bottom: 35%;
+}
 .head {
 	margin-top: 5%;
+	margin-bottom: 20%; 
 }
 .txt {
 	font-family: helvetica;
@@ -43,11 +47,12 @@ body{
 }
 
 .lol {
-	margin-top: 5px;
+	margin-top: 10%;
 }
 
+/*Project*/
 .classic {
-	margin-bottom: 6%;
+	margin-bottom: 15%;
 }
 
 #classic {
@@ -74,49 +79,8 @@ height: 0;
 .cons {
 	margin-bottom: 5%;
 	margin-top: 5%;
-
 }
 
-
-
-/*footer*/
-
-/** {	
-	box-sizing: border-box;
-	font-family: verdana;*/
-
-}
-/*.footer-container {
-	background-color: #0b03ff;*/
-	
-}
-	
-/*.footer {
-	height: 17vh;
-	background-color: #002540;
-
-	color: #fafafa;
-	display: flex;
-	justify-content: LEFT;*/
-	
-	
-
-}
-/*.footer-heading {
-	display: flex;
-	flex-direction: column;
-	margin-right: 5rem;*/
-}
-
-/*.footer-heading h2 {
-	margin-bottom: 0.5rem;*/
-}
-
-/*.footer-heading a {
-	color: #fafafa;
-	text-decoration: none;*/
-	
-}
 
 .form-control-sm {
 	border-radius: 40px;
@@ -129,23 +93,16 @@ height: 0;
 	color: white;
 	padding: 1rem;
 	font-size: 100%;
-
-	justify-content: center;
-		
-	
-
+	justify-content: center;		
 }
 
 .nice {
 justify-content: center;
-
-
 }
 
 #pre-footer > div {
 	display: inline-block;
 	width: 20%;
-	
 	text-decoration: none;
 	margin-bottom: 0.5rem;
 	
