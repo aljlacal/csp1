@@ -43,11 +43,15 @@ body{
 }
 
 .lol {
-	margin-top: 10px;
+	margin-top: 5px;
 }
 
 .classic {
-	margin-bottom: 10%;
+	margin-bottom: 6%;
+}
+
+#classic {
+	margin-bottom: 5%;
 }
 
 .cap {
@@ -62,13 +66,13 @@ font-family: verdana;
 .map { 
 
  overflow: hidden;
-padding-bottom: 40%;
+padding-bottom: 20%;
 position: relative;
 height: 0;
 }
 
 .cons {
-	margin-bottom: 10%;
+	margin-bottom: 5%;
 	margin-top: 5%;
 
 }
